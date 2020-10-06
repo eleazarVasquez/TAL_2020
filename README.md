@@ -1,2 +1,1 @@
-# TAL_2020
-INFO082 Tratamiento Automático del Lenguaje
+# INFO082_2020
